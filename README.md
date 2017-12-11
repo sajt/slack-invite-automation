@@ -39,7 +39,7 @@ If you want to use a `.env` file, create a file in the root called `.env` with t
 - `INVITE_TOKEN`: An optional security measure - if it is set, then that token will be required to get invited.
 - `RECAPTCHA_SITE`: An optional security measure - used to enable reCAPTCHA.
 - `RECAPTCHA_SECRET`: An optional security measure - used to enable reCAPTCHA.
-- `LOCALE`: Application language (currently `cs`, `de`, `en`, `es`, `fr`, `it`, `ja`, `ko`, `nl`, `pl`, `pt`, `pt-BR`, `tr`, `zh-CN` and `zh-TW` available).
+- `LOCALE`: Application language (currently `cs`, `de`, `en`, `es`, `fr`, `hu`, `it`, `ja`, `ko`, `nl`, `pl`, `pt`, `pt-BR`, `tr`, `zh-CN` and `zh-TW` available).
 
 **Sample**
 
